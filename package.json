@@ -1,0 +1,13 @@
+{
+  "author": "John Fawcett",
+  "name": "jam-version-bug-test",
+  "description": "Testing Jam's versioning",
+  "version": "0.0.3",
+  "main": "lib/index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
